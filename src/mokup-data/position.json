@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "position_id": "epl",
+    "role": "Nhân Viên",
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "id": 2,
+    "position_id": "depart",
+    "role": "Trưởng Phòng",
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "id": 3,
+    "position_id": "dir",
+    "role": "Giám Đốc CSVC",
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "id": 4,
+    "position_id": "ad",
+    "role": "Admin",
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "id": 5,
+    "position_id": "comlead",
+    "role": "Chủ Tịch HĐQT",
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "position_id": "dir_mid",
+    "role": "Phó Giám Đốc CSVC",
+    "id": 6,
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "position_id": "srt",
+    "role": "Thư Ký",
+    "id": 7,
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "position_id": "test",
+    "role": "Kiểm Thử",
+    "id": 8,
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "position_id": "serc",
+    "role": "Bảo Vệ",
+    "id": 9,
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  },
+  {
+    "position_id": "mng",
+    "role": "Giám Đốc Công Ty",
+    "id": 10,
+    "user_create": "Admin",
+    "time_create": "12:12:22, 22/2/2022",
+    "user_update": "Admin",
+    "time_update": "8:15:22, 15/3/2022"
+  }
+]

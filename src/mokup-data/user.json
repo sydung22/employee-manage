@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "email": "havi@gmail.com",
+    "password": "12345678",
+    "firstName": "Vi",
+    "lastName": "Nguyễn Thị Hà",
+    "role": "Giám Đốc Công Ty",
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "id": 2,
+    "email": "luongtran@gmail.com",
+    "password": "12345678",
+    "firstName": "Lương",
+    "lastName": "Trần Hữu",
+    "role": "Nhân Viên",
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "id": 3,
+    "email": "sydung@gmail.com",
+    "password": "12345678",
+    "firstName": "Dũng",
+    "lastName": "Nguyễn Sỹ",
+    "role": "Admin",
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "id": 4,
+    "email": "thuydung@gmail.com",
+    "password": "12345678",
+    "firstName": "Dung",
+    "lastName": "Dương Thị Thùy",
+    "role": "Nhân Viên",
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "id": 5,
+    "email": "hieuvo@gmail.com",
+    "password": "12345678",
+    "firstName": "Hiếu",
+    "lastName": "Võ Trung",
+    "role": "Nhân Viên",
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "id": 6,
+    "email": "thuytrang@gmail.com",
+    "password": "12345678",
+    "firstName": "Trang",
+    "lastName": "Võ Thị Thuỳ",
+    "role": "Trưởng Phòng",
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "maichi08@gmail.com",
+    "password": "12345678",
+    "firstName": "Chi",
+    "lastName": "Nguyễn Mai",
+    "role": "Trưởng Phòng",
+    "id": 7,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "levi123@gmail.com",
+    "password": "12345678",
+    "firstName": "Vi",
+    "lastName": "Nguyễn Lê",
+    "role": "Nhân Viên",
+    "id": 8,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "anhtuan@gmail.com",
+    "password": "12345678",
+    "firstName": "Tuấn",
+    "lastName": "Hồ Lê Anh",
+    "role": "Nhân Viên",
+    "id": 9,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "hoangyen@gmail.com",
+    "password": "12345678",
+    "firstName": "Yến",
+    "lastName": "Phạm Hoàng",
+    "role": "Nhân Viên",
+    "id": 10,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "vanhuy@gmail.com",
+    "password": "12345678",
+    "firstName": "Huy",
+    "lastName": "Thái Văn",
+    "role": "Nhân Viên",
+    "id": 11,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "vanthanh@gmail.com",
+    "password": "12345678",
+    "firstName": "Thành",
+    "lastName": "Nguyễn Văn",
+    "role": "Trưởng Phòng",
+    "timeLogin": "24/01/2022 15:32:57",
+    "id": 12
+  },
+  {
+    "email": "vankhai@gmail.com",
+    "password": "12345678",
+    "firstName": "Khải",
+    "lastName": "Mai Văn",
+    "role": "Nhân Viên",
+    "id": 13,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "hongphong@gmail.com",
+    "password": "12345678",
+    "firstName": "Phong",
+    "lastName": "Đinh Hồng",
+    "role": "Nhân Viên",
+    "id": 14,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "duyviet@gmail.com",
+    "password": "12345678",
+    "firstName": "Việt",
+    "lastName": "Nguyễn Duy",
+    "role": "Nhân Viên",
+    "id": 15,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "tiendat@gmail.com",
+    "password": "12345678",
+    "firstName": "Đạt",
+    "lastName": "Nguyễn Ngọc Tiến",
+    "role": "Nhân Viên",
+    "id": 16,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "quangdieu@gmail.com",
+    "password": "12345678",
+    "firstName": "Diệu",
+    "lastName": "Trương Quang",
+    "role": "Nhân Viên",
+    "id": 17,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "tiennguyen@gmail.com",
+    "password": "12345678",
+    "firstName": "Tiến",
+    "lastName": "Nguyễn Tân",
+    "role": "Nhân Viên",
+    "id": 18,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "ngoctran@gmail.com",
+    "password": "12345678",
+    "firstName": "Trân",
+    "lastName": "Võ Ngọc",
+    "role": "Nhân Viên",
+    "id": 19,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "truongphong@gmail.com",
+    "password": "12345678",
+    "firstName": "Phong",
+    "lastName": "Nguyễn Trường",
+    "role": "Trưởng Phòng",
+    "id": 20,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "hoanganh@gmail.com",
+    "password": "12345678",
+    "firstName": "Anh",
+    "lastName": "Quách Hoàng",
+    "role": "Nhân Viên",
+    "id": 21,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "vanvu@gmail.com",
+    "password": "12345678",
+    "firstName": "Vũ",
+    "lastName": "Lê Văn",
+    "role": "Giám Đốc CSVC",
+    "id": 22,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "minhchau@gmail.com",
+    "password": "12345678",
+    "firstName": "Châu",
+    "lastName": "Huỳnh Minh",
+    "role": "Nhân Viên",
+    "id": 23,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "thaovy@gmail.com",
+    "password": "123456789",
+    "firstName": "Vy",
+    "lastName": "Huỳnh Thị Thảo",
+    "role": "Admin",
+    "id": 24,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "thaingan@gmail.com",
+    "password": "12345678",
+    "firstName": "Ngân",
+    "lastName": "Phan Nguyễn Thái",
+    "role": "Giám đốc CSVC",
+    "id": 25,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "vukhanhhuyen@gmail.com",
+    "password": "12345678",
+    "firstName": "Huyền",
+    "lastName": "Vũ Thị Khánh",
+    "role": "Nhân Viên",
+    "id": 26,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "lekhanhhuyen@gmail.com",
+    "password": "12345678",
+    "firstName": "Huyền",
+    "lastName": "Lê Thị Khánh",
+    "role": "Nhân Viên",
+    "id": 27,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "thugiang@gmail.com",
+    "password": "12345678",
+    "firstName": "Giang",
+    "lastName": "Dương Thu",
+    "role": "Nhân Viên",
+    "id": 28,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "quocthang@gmail.com",
+    "password": "12345678",
+    "firstName": "Thắng",
+    "lastName": "Nguyễn Vũ Quốc Thắng",
+    "role": "Nhân Viên",
+    "id": 29,
+    "timeLogin": "12:12:22, 22/2/2022"
+  },
+  {
+    "email": "hongnguyen@gmail.com",
+    "password": "12345678",
+    "firstName": "Nguyên",
+    "lastName": "Phan Hồng",
+    "role": "Nhân Viên",
+    "id": 30,
+    "timeLogin": "12:12:22, 22/2/2022"
+  }
+]

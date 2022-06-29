@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "depart_id": "MTK2",
+      "depart_name": "Phòng Marketing",
+      "depart_address": "Phòng 101",
+      "depart_image": "https://cc.1cdn.vn/2018/12/08/media-cungcau-vn_guong1-1740.jpg"
+    },
+    {
+      "id": 2,
+      "depart_id": "SL2",
+      "depart_name": "Phòng Sales",
+      "depart_address": "Phòng 102",
+      "depart_image": "https://trituevietnam.com.vn/wp-content/uploads/2020/04/phong-kinh-doanh-.jpg"
+    },
+    {
+      "id": 3,
+      "depart_id": "HR3",
+      "depart_name": "Phòng Nhân Sự",
+      "depart_address": "Phòng 103",
+      "depart_image": "https://tuyensinhdhcd.vn/wp-content/uploads/2020/11/cong-viec-nhan-su-gom-nhung-gi-1.jpg"
+    },
+    {
+      "id": 4,
+      "depart_id": "KT4",
+      "depart_name": "Phòng Kế Toán",
+      "depart_address": "Phòng 104",
+      "depart_image": "https://ketoananpha.vn/uploads/images/post/1-02.jpg"
+    },
+    {
+      "id": 5,
+      "depart_id": "KT5",
+      "depart_name": "Phòng Kiểm Toán",
+      "depart_address": "Phòng 105",
+      "depart_image": "https://toplist.vn/images/800px/cong-ty-tnhh-dai-ly-thue-tu-van-vinatax-495772.jpg"
+    },
+    {
+      "id": 6,
+      "depart_id": "KD6",
+      "depart_name": "Phòng Kinh Doanh",
+      "depart_address": "Phòng 201",
+      "depart_image": "https://cdn.vietnambiz.vn/171464876016439296/2020/4/24/0-15877038145611885671211.jpg"
+    },
+    {
+      "id": 7,
+      "depart_id": "CNTT7",
+      "depart_name": "Phòng Công Nghệ Thông Tin",
+      "depart_address": "Phòng 202",
+      "depart_image": "https://ict-imgs.vgcloud.vn/2021/04/26/18/co-gi-trong-tru-so-moi-dep-nhu-mo-cua-tap-doan-cong-nghe-fpt-4.jpg"
+    },
+    {
+      "id": 8,
+      "depart_id": "CSKH8",
+      "depart_name": "Phòng CSKH",
+      "depart_address": "Phòng 203",
+      "depart_image": "https://fpttelecom.info.vn/wp-content/uploads/2016/05/bo-phan-cham-soc-khach-hang-fpt-telecom.jpg"
+    },
+    {
+      "id": 9,
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "depart_address": "Phòng 204",
+      "depart_image": "https://oxford.edu.vn/UploadFinder/images/van%20phong%202-compressed.jpg"
+    },
+    {
+      "depart_id": "QHQT10",
+      "depart_name": "Phòng Quan Hệ Quốc Tế",
+      "depart_address": "Phòng 205",
+      "id": 10,
+      "depart_image": "https://thietkevanphongmienbac.vn/Uploaded_products/img_any/thiet-ke-noi-that-phong-giam-doc-sang-trong-mb1.jpg"
+    },
+    {
+      "depart_id": "NQ11",
+      "depart_name": "Phòng Ngân Qũy ",
+      "depart_address": "Phòng 301",
+      "id": 11,
+      "depart_image": "https://file1.dangcongsan.vn/data/0/images/2021/08/02/minhphuong/copy-of-img-0133.jpg?dpi=150&quality=100&w=780"
+    },
+    {
+      "depart_id": " MNG11",
+      "depart_name": "Phòng Giám Đốc",
+      "depart_address": "Phòng 401",
+      "depart_image": "https://donggia.vn/wp-content/uploads/2020/10/thiet-ke-noi-that-phong-chu-tich-giam-doc-9.jpg",
+      "id": 12
+    }
+  ]
